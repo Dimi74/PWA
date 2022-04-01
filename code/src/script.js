@@ -6,4 +6,5 @@ window.addEventListener('load', async () => {
             console.error('Whooopsie!', err)
         }
     }
+	
 });
